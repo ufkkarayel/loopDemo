@@ -10,6 +10,7 @@ public class Main {
         System.out.println("For döngüsü bitti");
 
         //while döngüsü
+        // i while döngüsünün dışında tanımlanır.
         int i=1;
 
         while (i<10){
